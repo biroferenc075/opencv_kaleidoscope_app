@@ -1,5 +1,5 @@
 # opencv_kaleidoscope_app
-Kaleidoscope application using OpenCV for Training Project Laboratory Course
+Kaleidoscope application using OpenCV for Training Project Laboratory Course, originally made in 2022
 
 https://user-images.githubusercontent.com/100433458/220379614-db0dca20-1ec2-45f4-93b4-fc2797cdf4a4.mp4
 
